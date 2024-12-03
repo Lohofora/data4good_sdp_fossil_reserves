@@ -1,0 +1,64 @@
+Summary
+Table 1.1: OPEC Members' facts and figures [xlsx]
+Table 1.2: OPEC Members' crude oil production allocations [xlsx]
+
+Macro-economics
+Table 2.1: OPEC Members' population [xlsx]
+Table 2.2: OPEC Members' nominal GDP (at current market prices) [xlsx]
+Table 2.3: OPEC Members' real GDP growth rates (PPP based weights) [xlsx]
+Table 2.4: OPEC Members' values of exports of goods and services [xlsx]
+Table 2.5: OPEC Members' values of petroleum exports [xlsx]
+Table 2.6: OPEC Members' values of imports of goods and services [xlsx]
+Table 2.7: Current account balances in OPEC Members [xlsx]
+
+Oil data: upstream
+Table 3.1: World proven crude oil reserves by country [xlsx]
+Table 3.2: Active rigs by country [xlsx]
+Table 3.3: Wells completed in OPEC Members [xlsx]
+Table 3.4: Crude oil production in OPEC and non-OPEC DoC Members [xlsx]
+Table 3.5: World crude oil production by country [xlsx]
+Table 3.6: Non-DoC liquids production and DoC NGLs [xlsx]
+Table 3.7: World biofuel production [xlsx]
+
+Oil data: downstream
+Table 4.1: Refinery capacity in OPEC Members by company and location [xlsx]
+Table 4.2: World refinery capacity by country [xlsx]
+Table 4.3: World refinery throughput by country [xlsx]
+Table 4.4: Output of petroleum products in OPEC Members [xlsx]
+Table 4.5: World output of petroleum products by country [xlsx]
+Table 4.6: Oil demand by main petroleum product in OPEC Members [xlsx]
+Table 4.7: World oil demand by country [xlsx]
+Table 4.8: World oil demand by main petroleum product and region [xlsx]
+
+Oil trade
+Table 5.1: OPEC Members' crude oil exports by destination [xlsx]
+Table 5.2: World crude oil exports by country [xlsx]
+Table 5.3: World exports of petroleum products by country [xlsx]
+Table 5.4: World exports of petroleum products by main petroleum product and region [xlsx]
+Table 5.5: World exports of crude oil and petroleum products by country [xlsx]
+Table 5.6: World imports of crude oil by country [xlsx]
+Table 5.7: World imports of petroleum products by country [xlsx]
+Table 5.8: World imports of petroleum products by main petroleum product and region [xlsx]
+Table 5.9: World imports of crude oil and petroleum products by country [xlsx]
+
+Oil transportation
+Table 6.1: Average spot freight rates by vessel category [xlsx]
+Table 6.2: Dirty tanker spot freight rates [xlsx]
+Table 6.3: Clean tanker spot freight rates [xlsx]
+
+Oil prices
+Table 7.1: OPEC Reference Basket (ORB) and corresponding components' spot prices [xlsx]
+Table 7.2: OPEC Reference Basket in nominal and real terms [xlsx]
+Table 7.3: Annual average of adjustment factors for selected OPEC Reference Basket components [xlsx]
+Table 7.4: ICE Brent, NYMEX WTI and DME Oman annual average of the 1st, 6th and 12th forward months [xlsx]
+Table 7.5: Spot prices of petroleum products in major markets [xlsx]
+Table 7.6: Crack spreads in major markets [xlsx]
+Taxes on oil
+Table 8.1: Composite barrel and its components in major OECD oil consuming countries [xlsx]
+
+Natural gas data
+Table 9.1: World proven natural gas reserves by country [xlsx]
+Table 9.2: World marketed production of natural gas by country [xlsx]
+Table 9.3: World natural gas exports by country [xlsx]
+Table 9.4: World natural gas imports by country [xlsx]
+Table 9.5: World natural gas demand by country [xlsx]
